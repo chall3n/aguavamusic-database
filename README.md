@@ -20,7 +20,7 @@ Setup & Installation
    Spotify "CLIENT_ID" and "CLIENT_SECRET" (see instructions below)
 3. Frontend setup ('aguava' folder) navigate to the frontend directory, and install Node.js dependencies
 
-   You need to run both he backend and frontend servers simultaneously
+   You need to run both the backend and frontend servers simultaneously
 
 Setting up Spotify API Access
 
